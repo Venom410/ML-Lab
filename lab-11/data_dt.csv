@@ -1,0 +1,15 @@
+Day,Outlook,Temperature,Humidity,Wind ,Decision
+1,Sunny,High,High,Weak,No
+2,Sunny,High,High,Strong,No
+3,Overcast,High,Medium,Weak,Yes
+4,Rain,Medium,High,Weak,Yes
+5,Rain,Low,High,Weak,Yes
+6,Rain,Low,Medium,Strong,No
+7,Overcast,Low,Low,Strong,Yes
+8,Sunny,Medium,High,Weak,No
+9,Sunny,Low,Medium,Weak,Yes
+10,Rain,Medium,High,Weak,Yes
+11,Sunny,Medium,Medium,Strong,Yes
+12,Overcast,Medium,High,Strong,Yes
+13,Overcast,High,Medium,Weak,Yes
+14,Rain,Medium,High,Strong,No
